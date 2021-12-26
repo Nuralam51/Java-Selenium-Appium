@@ -1,1 +1,1 @@
-# Flipboard-Java-Selenium-Appium
+# Flipboard Java Selenium Appium Test
